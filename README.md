@@ -8,11 +8,6 @@
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
 
-- 🌱 I’m currently learning **JavaScript Advanced topics, Data structures and Algorithms**
-- 💬 Ask me about **TypeScript, Node.js**
-- ⚡ Fun fact **I can type 120 words per minute 😄 - sure it's a joke**
-- 📫 **How to reach me:**
-
 <div align="left">
   <a href="https://t.me/oleg_ivanovych" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
