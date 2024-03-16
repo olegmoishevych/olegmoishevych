@@ -3,9 +3,9 @@
 <h3 align="center">Backend developer</h3>
 
 <div class="image" align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/83/11/41/360_F_583114127_oO0CJqVxaWoqMlRL0QB7owGunBJoPE9L.jpg"
-  alt="Profile Picture"
-  style="width: 600px; height: 350px; max-width: 94%;" />
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95"
+  alt="Profile GIF"
+  style="max-width: 100%; height: auto;" />
 </div>
 
 <div align="left">
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
   </a>
 </div>
+
 
 <div align="left">
 <h3>Languages/Runtimes & Tools:</h3>
