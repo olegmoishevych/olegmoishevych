@@ -9,7 +9,7 @@
 </div>
 
 <div align="center"> <!-- Changed alignment to center -->
-  <a href="https://t.me/oleg_ivanovych" target="_blank">
+  <a href="https://t.me/oleg_moishevych" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo"/>
   </a>
   <a href="mailto:olegmoishevych@gmail.com" target="_blank">
