@@ -8,7 +8,7 @@
   style="max-width: 100%; height: auto;" />
 </div>
 
-<div align="left">
+<div align="center"> <!-- Changed alignment to center -->
   <a href="https://t.me/oleg_ivanovych" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo"/>
   </a>
@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
   </a>
 </div>
-
 
 <div align="left">
 <h3>Languages/Runtimes & Tools:</h3>
