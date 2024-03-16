@@ -1,23 +1,22 @@
-<!-- HEARER -->
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">Backend developer</h3>
 
 <div class="image" align="center">
-  <img src="[https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966](https://t4.ftcdn.net/jpg/05/83/11/41/360_F_583114127_oO0CJqVxaWoqMlRL0QB7owGunBJoPE9L.jpg)"
-  alt=""
+  <img src="https://t4.ftcdn.net/jpg/05/83/11/41/360_F_583114127_oO0CJqVxaWoqMlRL0QB7owGunBJoPE9L.jpg"
+  alt="Profile Picture"
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
 
 <div align="left">
   <a href="https://t.me/oleg_ivanovych" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo"/>
   </a>
-  <a href="olegmoishevych@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
+  <a href="mailto:olegmoishevych@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
   </a>
-
   <a href="https://www.linkedin.com/in/omoishevych/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
   </a>
 </div>
 
