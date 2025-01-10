@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleh Moishevych</h1>
-<h3 align="center">Backend Developer | Mentor | YouTube Blogger</h3>
+<h3 align="center">5+ Years of Expertise in Node.js | AWS Certified Backend Developer | TypeScript & JavaScript | Blogger | Mentor</h3>
 
 <div class="image" align="center">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95"
