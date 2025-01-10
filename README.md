@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleh Moishevych</h1>
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Backend Developer | Mentor | YouTube Blogger</h3>
 
 <div class="image" align="center">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95"
@@ -17,4 +17,11 @@
   <a href="https://www.linkedin.com/in/olehmoishevych/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
   </a>
+</div>
+
+<div align="center">
+  <p>👨‍💻 5+ years of professional experience</p>
+  <p>📺 YouTube: <a href="https://www.youtube.com/@Oleh_Moishevych" target="_blank">Oleh_Moishevych</a></p>
+  <p>🚀 Exploring opportunities: DevOps, Backend Developer, Full Stack Developer</p>
+  <p>📩 Contact me on <a href="https://t.me/oleh_moishevych" target="_blank">Telegram</a></p>
 </div>
