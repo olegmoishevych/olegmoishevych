@@ -23,5 +23,4 @@
   <p>👨‍💻 5+ years of professional experience</p>
   <p>📺 YouTube: <a href="https://www.youtube.com/@Oleh_Moishevych" target="_blank">Oleh_Moishevych</a></p>
   <p>🚀 Exploring opportunities: DevOps, Backend Developer, Full Stack Developer</p>
-  <p>📩 Contact me on <a href="https://t.me/oleh_moishevych" target="_blank">Telegram</a></p>
 </div>
