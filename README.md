@@ -11,7 +11,7 @@
   <a href="https://t.me/olehmoishevych" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo"/>
   </a>
-  <a href="mailto:olehmoishevych@gmail.com" target="_blank">
+  <a href="mailto:olegmoishevych@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/olehmoishevych/" target="_blank">
