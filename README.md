@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://t.me/oleh_moishevych" target="_blank">
+  <a href="https://t.me/olehmoishevych" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo"/>
   </a>
   <a href="mailto:olehmoishevych@gmail.com" target="_blank">
