@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Oleh Moishevych</h1>
+<h1 align="center">I'm Oleh Moishevych</h1>
 <h3 align="center">Backend Engineer | 5+ Years in Node.js | TypeScript, JavaScript | Certified by Google & AWS | Mentor</h3>
 
 <div class="image" align="center">
