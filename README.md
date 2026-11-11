@@ -1,5 +1,5 @@
 <h1 align="center">I'm Oleh Moishevych</h1>
-<h3 align="center">Backend Engineer | 5+ Years in Node.js | TypeScript, JavaScript | Certified by Google & AWS | Mentor</h3>
+<h3 align="center">I am FullStack/DevOps Engineer with over 6-years of experience in developing, scaling, and maintaining software products.</h3>
 
 <div class="image" align="center">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95"
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <p>👨‍💻 5+ years of professional experience</p>
+  <p>👨‍💻 6+ years of professional experience</p>
   <p>📺 YouTube: <a href="https://www.youtube.com/@Oleh_Moishevych" target="_blank">Oleh_Moishevych</a></p>
   <p>🚀 I can be valuable in roles such as: DevOps, Backend Developer, Full Stack Developer</p>
 </div>
