@@ -1,5 +1,5 @@
 <h1 align="center">I'm Oleh Moishevych</h1>
-<h3 align="center">I am FullStack/DevOps Engineer with over 6-years of experience in developing, scaling, and maintaining software products.</h3>
+<h3 align="center">FullStack/DevOps Engineer with over 6-years of experience in developing, scaling, and maintaining software products.</h3>
 
 <div class="image" align="center">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95"
